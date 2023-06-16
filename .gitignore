@@ -1,0 +1,6 @@
+
+
+#ignore all.txt files
+/build/
+*.txt
+config.ini
